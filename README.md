@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Website Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zam-Codes](https://github.com/Zam-Codes](https://github.com/Zam-Codes](https://github.com/Zam-Codes)
+- 👨‍💻 All of my projects are available at [https://github.com/Zam-Codes]
 
 - 💬 Ask me about **HTML, CSS, Next.JS**
 
